@@ -1,0 +1,14 @@
+.div1,
+.div2,
+.div3,
+.div4 {
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+  margin: 0 5rem;
+}
+/* 
+img {
+  width: 50px;
+  height: 100px;
+} */
